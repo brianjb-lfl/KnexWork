@@ -14,7 +14,7 @@
   "dependencies": {
     "express": "^4.15.4",
     "knex": "^0.12.9",
-    "pg": "^6.1.5"
+    "pg": "^6.4.2"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"

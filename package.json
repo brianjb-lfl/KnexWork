@@ -1,7 +1,6 @@
 {
-  "name": "node-restaurants-knex",
+  "name": "restaurants-knex",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -12,11 +11,21 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.1",
     "express": "^4.15.4",
     "knex": "^0.12.9",
     "pg": "^6.4.2"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianjb-lfl/KnexWork.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brianjb-lfl/KnexWork/issues"
+  },
+  "homepage": "https://github.com/brianjb-lfl/KnexWork#readme",
+  "description": ""
 }
